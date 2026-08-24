@@ -1,3 +1,4 @@
+![HI](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 # 💫 About Me:
 ## 👨‍💻 About Me<br><br>* 🎓 B.Tech CSE student at **SRM Institute of Science and Technology (SRMIST)**<br>* 💻 Currently exploring **Java, Data Structures & Algorithms, and Full-Stack Development**<br>* 🤖 Interested in **Machine Learning, Data Science, and AI**<br>* 🚀 Building projects to strengthen my **problem-solving and development skills**<br>* 🛠️ Experienced with **Java, SQL, HTML, CSS, JavaScript, and Git/GitHub**<br>* 📚 Continuously learning new technologies and improving my coding skills<br>* 💡 Interested in creating **real-world, impactful projects**<br>* 🎯 Currently preparing for **internships and software development opportunities**<br>* 🎵 Outside coding, I enjoy **listening to music and exploring new things**<br>
 
